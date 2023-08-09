@@ -1,0 +1,10 @@
+Mvc=> Model View Controler 
+
+Database=. Model
+design/html=> view 
+function=> Controler
+
+laravel=> php8+, Server, Database , Composer
+
+New Project Command: composer create-project laravel/laravel example-app
+project run: php artisan serve
